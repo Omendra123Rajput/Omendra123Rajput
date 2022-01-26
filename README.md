@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Omendra123Rajput
+- 👋 Hi, I’m @OmendraRajput
 - 👀 I am a full-stack software engineer. I primarily build full-stack web applications using HTML, CSS, JAVASCRIPT, Node.js , React and Python. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
 
 - Interests: programming, Language learning, social media management, sports, travelling, graphic design, web development,
